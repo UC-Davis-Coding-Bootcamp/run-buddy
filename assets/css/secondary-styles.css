@@ -1,0 +1,46 @@
+  .hero {
+    padding: 60px;
+    background-image: url("../images/hero-bg.jpg");
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .hero-secondary, .secondary-content{
+    display: block;
+  }
+  .page-title{
+    overflow: auto;
+    border-color: #fce138;
+    color: #fce138;
+    font-size: 42px;
+    font-style: italic;
+  }
+  .secondary-content{
+    
+    width: 80%;
+    text-align: justify;
+    margin: 40px auto ;
+  }
+  .secondary-content h3{
+   font-size: 25px;
+   margin: 20px 0;
+
+  }
+  .secondary-content p{
+    font-size: 16px;
+    margin: 20px 0;
+    line-height: 1.5;
+ 
+   }
+   .secondary-content ul{
+    font-size: 25px;
+    margin: 15px 20px;
+
+   }
+   .secondary-content li{
+    color: #39a6b2;
+    margin: 10px 0;
+ 
+   }
